@@ -494,7 +494,7 @@ This project is proprietary. All rights reserved.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Dhaval Trivedi** - *Product Manager* - [DrDhaval Trivedi](https://github.com/drdhavaltrivedi)
 
 ---
 
